@@ -23,13 +23,6 @@ Library: qrcode
 
 Image Backend: Pillow (installed automatically)
 
-📂 Project Structure
-QR-Code-Generator/
-│
-├── qr_generator.py
-├── README.md
-└── qrcode.png   (generated output)
-
 📦 Installation
 1️⃣ Clone the repository
 git clone https://github.com/aslahkp01/QR-Code-Generator.git
